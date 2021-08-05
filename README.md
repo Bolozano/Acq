@@ -3,7 +3,7 @@
 ```
 !pip install -U spacy
 !pip install langid
-
+!pip install --upgrade py2neo
 ```
 
 ```
