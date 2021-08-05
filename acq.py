@@ -13,8 +13,6 @@ Original file is located at
 
 # !pip install torch
 
-import torch
-from transformers import BertTokenizer, BertModel
 import string
 from tqdm.notebook import tqdm
 import pickle
