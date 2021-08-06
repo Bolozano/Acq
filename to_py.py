@@ -495,9 +495,10 @@ patterns=[[['NOUN_CHUNK', 'ACQUIRES', 'NOUN_CHUNK'],{'Acquire_COM':[0],'Acquired
           [['PROPN', 'ACQUIRES', 'PROPN'],{'Acquire_COM':[0],'Acquired_COM':[2]}],
           [['ORG', 'TO', 'ACQUIRE', 'NOUN_CHUNK', 'ORG', 'NOUN', 'NOUN', 'NOUN_CHUNK'],{'Acquire_COM':[0],'Acquired_COM':[4]}],
           [['ORG', 'ACQUISITION', 'OF', 'ORG', 'NOUN_CHUNK'],{'Acquire_COM':[0],'Acquired_COM':[3]}],
+	  [['NOUN_CHUNK', 'TO', 'ACQUIRE', 'PERCENT', 'NOUN_CHUNK', 'OF', 'ORG', 'NOUN_CHUNK'],{'Acquire_COM':[0],'Acquired_COM':[6]}],
+		
 
-
-
+	
 
 
  
