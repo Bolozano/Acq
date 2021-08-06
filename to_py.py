@@ -479,7 +479,7 @@ patterns=[[['NOUN_CHUNK', 'ACQUIRES', 'NOUN_CHUNK'],{'Acquire_COM':[0],'Acquired
           [['PROPN', 'PROPN', 'ACQUISITION', 'OF', 'PROPN'],{'Acquire_COM':[0,1],'Acquired_COM':[4]}],
           [['NOUN_CHUNK', 'PUNCT', 'NOUN_CHUNK', 'ACQUIRES', 'NOUN_CHUNK', 'PERCENT', 'NOUN', 'IN', 'NOUN_CHUNK'],{'Acquire_COM':[0],'Acquired_COM':[8],'Percentage':[5]}],
           [['ORG', 'NOUN_CHUNK', 'VERB', 'ACQUISITION', 'OF', 'PERCENT', 'NOUN_CHUNK', 'IN', 'ORG', 'NOUN_CHUNK'],{'Acquire_COM':[0],'Acquired_COM':[8],'Percentage':[5]}],
-          [['ORG', 'NOUN_CHUNK', 'ACQUIRES', 'NOUN_CHUNK', 'IN', 'NOUN_CHUNK'],{'Acquire_COM':[0],'Acquired_COM':[5]}],
+#           [['ORG', 'NOUN_CHUNK', 'ACQUIRES', 'NOUN_CHUNK', 'IN', 'NOUN_CHUNK'],{'Acquire_COM':[0],'Acquired_COM':[5]}],
           [['ORG', 'AND', 'ORG', 'TO', 'ACQUIRE', 'ORG', 'NOUN_CHUNK', 'PUNCT', 'NOUN_CHUNK'],{'Acquire_COM1':[0],'Acquire_COM2':[2],'Acquired_COM':[5]}],
           [['NOUN_CHUNK', 'VERB', 'ACQUISITION', 'ON', 'ORG', 'NOUN_CHUNK', 'FROM', 'ORG', 'NOUN_CHUNK'],{'Acquire_COM':[0],'Acquired_COM':[4],'From':[7]}],
           [[ 'NOUN_CHUNK', 'TO', 'ACQUIRE', 'NOUN_CHUNK', 'OF', 'NOUN_CHUNK'],{'Acquire_COM':[0],'Acquired_COM':[3],'From':[5]}],
