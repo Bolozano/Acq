@@ -9,9 +9,9 @@ Original file is located at
 # MaMa Algorithme  -LM to KG
 """
 
-!pip install -U spacy
-!pip install langid
-!pip install --upgrade py2neo
+#!pip install -U spacy
+#!pip install langid
+#!pip install --upgrade py2neo
 
 # #you can simply call this patterned-based methode from github
 # !git clone https://github.com/Bolozano/Acq.git
